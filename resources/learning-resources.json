@@ -6,7 +6,7 @@
     "items": [
         {
             "icon": "📖",
-            "image": "martinfowler.png",
+            "image": "martinFowler.png",
             "imageLabel": "Martin Fowler",
             "imageFit": "contain",
             "title": "Serverless Architectures",
@@ -26,7 +26,7 @@
         },
         {
             "icon": "⭐",
-            "image": "martinfowler.png",
+            "image": "martinFowler.png",
             "imageLabel": "Martin Fowler",
             "imageFit": "contain",
             "title": "Team OKRs in Action",
