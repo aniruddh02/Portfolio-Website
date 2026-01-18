@@ -1,0 +1,19 @@
+{
+    "profileImage": "profile-img.png",
+    "profileImageAlt": "Aniruddh Tiwari",
+    "_instructions": {
+        "profileImage": "Your professional headshot or profile picture",
+        "recommendedSize": "400x400px (1:1 square aspect ratio)",
+        "displaySize": "Will be displayed as a 200px circle in the hero section",
+        "maxFileSize": "150KB for optimal clarity and page load speed",
+        "formats": "JPG (recommended), PNG (for transparent backgrounds), or WebP",
+        "tips": [
+            "Use a high-quality, well-lit professional photo",
+            "Center your face in the frame",
+            "Use a clean, simple background",
+            "GIF animations are supported but keep file size under 500KB"
+        ],
+        "optimization": "Compress images using tools like TinyPNG, Squoosh, or ImageOptim",
+        "placement": "Place image file in /images folder and set filename here (e.g., 'profile.jpg')"
+    }
+}

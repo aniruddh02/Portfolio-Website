@@ -1,0 +1,12 @@
+{
+    "bannerImage": null,
+    "bannerImageAlt": "Portfolio Banner",
+    "_instructions": {
+        "bannerImage": "Optional background image for the hero section",
+        "recommendedSize": "1920x600px (3.2:1 aspect ratio)",
+        "maxFileSize": "300KB for optimal page load speed",
+        "formats": "JPG (recommended for photos), PNG (for graphics), or WebP (best compression)",
+        "optimization": "Compress images using tools like TinyPNG or ImageOptim before uploading",
+        "placement": "Place image file in /images folder and set filename here (e.g., 'hero-banner.jpg')"
+    }
+}

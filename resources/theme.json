@@ -1,0 +1,22 @@
+{
+    "_instructions": {
+        "description": "Control the website's color theme. Changes here usually apply immediately after saving and refreshing.",
+        "colors": "Use hex codes (e.g., #3b82f6) or valid CSS color values."
+    },
+    "light": {
+        "accent": "#1e40af",
+        "accentHover": "#1e3a8a",
+        "heroGradientStart": "#172554",
+        "heroGradientEnd": "#1e40af",
+        "cardIconBg": "#eff6ff",
+        "cardIconColor": "#1e40af"
+    },
+    "dark": {
+        "accent": "#60a5fa",
+        "accentHover": "#3b82f6",
+        "heroGradientStart": "#0f172a",
+        "heroGradientEnd": "#1e40af",
+        "cardIconBg": "#172554",
+        "cardIconColor": "#60a5fa"
+    }
+}

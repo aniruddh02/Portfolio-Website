@@ -1,0 +1,71 @@
+{
+    "section": {
+        "title": "Learning",
+        "description": "Curated books, videos, and resources that shaped my engineering philosophy"
+    },
+    "items": [
+        {
+            "icon": "📖",
+            "image": "martinfowler.png",
+            "imageLabel": "Martin Fowler",
+            "imageFit": "contain",
+            "title": "Serverless Architectures",
+            "description": "A comprehensive primer by Mike Roberts on serverless architectures, explaining BaaS and FaaS, how they change application design and scaling, and the real-world benefits, drawbacks, and future directions of building systems without managing servers directly.",
+            "link": "https://martinfowler.com/articles/serverless.html",
+            "linkText": "Learn More"
+        },
+        {
+            "icon": "🎯",
+            "image": "Medium-600x132px.png",
+            "imageFit": "contain",
+            "imageLabel": "The Four Pillars of Engineering Management: Building High-Performance Teams",
+            "title": "The Four Pillars of Engineering Management: Building High-Performance Teams",
+            "description": "A practical framework for engineering management that starts with self-management, detailing how emotional intelligence, focused time management, and clear operating principles enable leaders to build and sustain high-performing teams.",
+            "link": "https://ajay-subramanian.medium.com/the-four-pillars-of-engineering-management-building-high-performance-teams-003b72eaa4e6",
+            "linkText": "Learn More"
+        },
+        {
+            "icon": "⭐",
+            "image": "martinfowler.png",
+            "imageLabel": "Martin Fowler",
+            "imageFit": "contain",
+            "title": "Team OKRs in Action",
+            "description": "An in-depth guide by Paulo Caroli on making **Team OKRs** a practical bridge between strategy and delivery, emphasizing co-created goals, collaborative alignment (rather than top-down cascades), and a lightweight cycle of planning, check-ins, and retrospectives that high-performing teams use to own outcomes.",
+            "link": "https://martinfowler.com/articles/team-okr.html",
+            "linkText": "Learn More"
+        },
+        {
+            "icon": "💡",
+            "image": "Medium-600x132px.png",
+            "imageFit": "contain",
+            "imageLabel": "Lessons I Learned at Google - Dave Rensin",
+            "title": "Lessons I Learned at Google - Dave Rensin",
+            "description": "A candid reflection from Google engineering leader Dave Rensin, distilling ten lessons on leadership, support, ambition, and humility—from “take every call” and “ask the hard question” to treating every interaction as an audition for your future career.",
+            "link": "https://drensin.medium.com/lessons-i-learned-at-google-a1d489f163b",
+            "linkText": "Learn More"
+        },
+        {
+            "icon": "🎬",
+            "hasEmbed": true,
+            "embedUrl": "https://www.youtube.com/embed/R-7nlm2lUFc",
+            "embedTitle": "Engineering Management; The Missing Manual (Dave Rensin)",
+            "image": null,
+            "imageLabel": null,
+            "title": "Engineering Management; The Missing Manual (Dave Rensin)",
+            "description": "In this talk, Google engineering leader Dave Rensin presents a neuroscience-based framework for engineering management that focuses on reducing team anxiety by replacing central control with clear principles and distributed decision-making.",
+            "link": "https://www.youtube.com/watch?v=R-7nlm2lUFc",
+            "linkText": "Watch on YouTube"
+        },
+        {
+            "icon": "🎯",
+            "hasEmbed": false,
+            "image": "GitHub_Logo.png",
+            "imageFit": "contain",
+            "imageLabel": "Machine Learning Zoomcamp",
+            "title": "Machine Learning with MLOps",
+            "description": "Machine learning pipeline from building core models to deploying them in production using tools like MLFLow, Docker and Kubernetes.",
+            "link": "https://github.com/DataTalksClub/machine-learning-zoomcamp",
+            "linkText": "Learn More"
+        }
+    ]
+}

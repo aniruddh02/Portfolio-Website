@@ -1,0 +1,17 @@
+{
+    "name": "Aniruddh Tiwari",
+    "tagline": "Engineering | Leader | Builder | Photographer",
+    "summary": "I currently serve as an Engineering Manager at Epsilon, my focus is helping Epsilon plan, build and execute long term technical investments particularly in the fields of large scale data engineering and AI initiatives that are central to Epsilon and Customer Data platform.",
+    "detailedBio": "I lead engineering teams building Epsilon's foundational data platform infrastructure—processing 5K+ batch jobs daily while serving 30+ enterprise clients and enabling dozens of product and analytics teams, processing 2 PB daily. My mandate bridges technical depth with organization-wide strategy: deliver scalable, reliable systems while building high-performing teams capable of autonomous, strategic execution.",
+    "expertise": [
+        "Data Engineering",
+        "Cloud Computing and Architecture",
+        "Databricks and Spark"
+    ],
+    "pills": [
+        "Data Platforms",
+        "Data Engineering",
+        "AI Enablement",
+        "Engineering Leadership"
+    ]
+}

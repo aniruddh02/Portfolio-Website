@@ -1,0 +1,48 @@
+{
+  "section": {
+    "title": "Projects",
+    "description": "Selected engineering projects and open-source contributions"
+  },
+  "items": [
+    {
+      "icon": "⚡",
+      "image": "GitHub_Logo.png",
+      "imageFit": "contain",
+      "imageLabel": "Distributed Systems",
+      "title": "Distributed Unique Number Generator",
+      "description": "A scalable solution for generating unique identifiers across distributed systems with high throughput and reliability.",
+      "link": "https://github.com/aniruddh02/DistributedUniqueNumber",
+      "linkText": "View on GitHub"
+    },
+    {
+      "icon": "🤖",
+      "image": "GitHub_Logo.png",
+      "imageFit": "contain",
+      "imageLabel": "MLOps Pipeline",
+      "title": "End-to-End MLOps Pipeline with Feature Store",
+      "description": "Production-ready MLOps infrastructure with automated training, versioning, and deployment capabilities.",
+      "link": "https://github.com/aniruddh02/MLOps",
+      "linkText": "View on GitHub"
+    },
+    {
+      "icon": "🧠",
+      "image": "GitHub_Logo.png",
+      "imageFit": "contain",
+      "imageLabel": "LLM Fine-Tuning",
+      "title": "LLM Fine-Tuning & Evaluation Framework using LoRA",
+      "description": "Efficient fine-tuning framework for large language models with comprehensive evaluation metrics.",
+      "link": "https://github.com/aniruddh02/LLM-Finetuning",
+      "linkText": "View on GitHub"
+    },
+    {
+      "icon": "🔍",
+      "image": "GitHub_Logo.png",
+      "imageFit": "contain",
+      "imageLabel": "RAG System",
+      "title": "Production RAG System with Vector Database & Monitoring",
+      "description": "Enterprise-grade retrieval-augmented generation system with observability and performance monitoring.",
+      "link": "https://github.com/aniruddh02/RAGSystem",
+      "linkText": "View on GitHub"
+    }
+  ]
+}
