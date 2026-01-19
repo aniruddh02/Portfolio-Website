@@ -6,7 +6,7 @@
     "items": [
         {
             "icon": "✍️",
-            "image": "building-teams.png",
+            "image": "building-teams-600px.png",
             "imageLabel": "Engineering Leadership",
             "imageFit": "contain",
             "title": "Building High-Performing Data Engineering Teams",
@@ -25,7 +25,7 @@
         },
         {
             "icon": "📊",
-            "image": "Medium-600x132px.png",
+            "image": "linear-regression-600px.png",
             "imageFit": "contain",
             "imageLabel": "Linear Regression models using Apache spark",
             "title": "Linear Regression models using Apache spark",
