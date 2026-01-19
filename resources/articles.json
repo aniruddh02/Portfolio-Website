@@ -6,11 +6,12 @@
     "items": [
         {
             "icon": "✍️",
-            "image": null,
+            "image": "building-teams.png",
             "imageLabel": "Engineering Leadership",
+            "imageFit": "contain",
             "title": "Building High-Performing Data Engineering Teams",
             "description": "Strategies for fostering autonomous execution and technical excellence in distributed engineering organizations.",
-            "link": "#",
+            "link": "https://medium.com/@aniruddh02/building-high-performing-data-engineering-teams-at-scale-ec54d3385dcf",
             "linkText": "Read Article"
         },
         {
